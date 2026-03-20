@@ -1,6 +1,4 @@
 <div align="center">
-  
-![背景](https://github.com/user-attachments/assets/95d2d65b-c924-4623-a65d-fd0427eba26e)
 
 <h1>Hi, I'm vodka 👋</h1>
 
@@ -12,7 +10,6 @@
 
 <br/>
 
-<h3>🛠️ Tech Stack</h3>
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Web_Security-000000?style=for-the-badge&logo=security&logoColor=white" />
@@ -20,17 +17,13 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-<br/>
-
-<h3>📊 GitHub Stats</h3>
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Deng666-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deng666-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160"/>
 </p>
 
-<p>
-  <a href="https://deng666-dev.github.io/">🌐 Blog</a> • 
-  <a href="mailto:eudaimonia.yg@gmail.com">✉️ Email</a>
-</p>
+<div>
+  <img src="https://github.com/user-attachments/assets/771d2262-a2d5-433b-81df-aee7d814aa70" />
+</div>
 
 </div>
